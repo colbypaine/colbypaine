@@ -22,7 +22,6 @@ Six Streamlit apps for jobs a private wealth team usually does by hand. They all
 Python backtests built on yfinance, OpenInsider and SEC EDGAR data, each measured against simply holding SPY.
 
 | Project | What it tests | Status |
-
 | **Backtest Runner** | A reusable pipeline: pick a universe, define a signal, set the rules, get charts and a written report | ✅ In use |
 | **Golden Cross** | The 50-day / 200-day moving-average crossover across a dozen large-cap stocks | ✅ Done |
 | **Insider Buying** | Following $250K+ open-market insider purchases in the smallest S&P 500 companies, with and without a trailing stop | ✅ Done |
@@ -32,7 +31,6 @@ Python backtests built on yfinance, OpenInsider and SEC EDGAR data, each measure
 
 ## 🛠️ Apps & products
 | Project | What it is | Status |
-
 | **Echoes** | A daily voice journal that builds a lifelong memory archive. LLM writes a personal prompt, you answer out loud, Whisper transcribes it, and a follow-up question digs deeper. Desktop app built with Electron | 🔨 MVP |
 | **Career Agent** | A career advisor for college students I wish I used that starts with what makes them tick, not their resume, then follows them from internship to first job. Co-building with a friend | 📐 Designing |
 | **Surf Journal** | Record a voice memo after a session; a watcher script transcribes it with Whisper and Claude logs it to the journal. No typing | ✅ Working |
@@ -40,7 +38,6 @@ Python backtests built on yfinance, OpenInsider and SEC EDGAR data, each measure
 
 ## ✍️ Writing & creative
 | Project | What it is | Status |
-
 | **Surf trip stories** | A memoir book in progress from eight months of chasing waves through Indonesia, New Zealand, Australia, Europe and Mexico | ✍️ Writing |
 | **Book Synthesis** | Whole books condensed into 15-slide carousels you can read in five minutes, with a Python script that renders the slides. First up: *Season of the Witch* | 🔨 Building |
 | **Creative coding** | Browser experiments: a slit-scan camera and a waveform visualizer | ✅ Done |
