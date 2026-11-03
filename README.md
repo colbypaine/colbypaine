@@ -1,9 +1,5 @@
 # Hi, I'm Colby 👋
 
-**Wealth management meets AI.** Ex-J.P. Morgan (Client Associate → Senior Client Associate), Series 7 / 66 exam holder, SF native, surfer, former D1 water polo player.
-
-I build small tools that handle the repetitive parts of wealth management, test trading ideas against real market data, and turn the rest of my life (surf sessions, travel stories, books) into artifacts I can keep.
-
 ---
 
 ## 🏦 Wealth management workflows
